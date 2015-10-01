@@ -24,31 +24,31 @@ Ao imprimir, inclua uma quebra de linha após a impressão utilizando o caracter
 ## Exemplos de execução
 
 ### Exemplo 1
-2
-2
-5.25
-4.50
-Venda 1 - Total: R$ 9.75.
-4
-2.00
-1.00
-2.00
-5.00
-Venda 2 - Total: R$ 10.00.
-* Saldo do dia: R$ 19.75.
+* 2
+* 2
+* 5.25
+* 4.50
+* Venda 1 - Total: R$ 9.75.
+* 4
+* 2.00
+* 1.00
+* * 2.00
+* 5.00
+* Venda 2 - Total: R$ 10.00.
+* * Saldo do dia: R$ 19.75.
 
 ### Exemplo 2
-3
-1
-75.00
-Venda 1 - Total: R$ 75.00.
-2
-1.99
-9.99
-Venda 2 - Total: R$ 11.98.
-3
-15.50
-9.50
-2.00
-Venda 3 - Total: R$ 27.00.
+* 3
+* 1
+* 75.00
+* Venda 1 - Total: R$ 75.00.
+* 2
+* 1.99
+* 9.99
+* Venda 2 - Total: R$ 11.98.
+* 3
+* 15.50
+* 9.50
+* 2.00
+* Venda 3 - Total: R$ 27.00.
 * Saldo do dia: R$ 113.98.
