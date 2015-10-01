@@ -31,15 +31,15 @@ public class Start {
 
     }
 
-    protected static int pegaQuantidadeVenda() {
+    private static int pegaQuantidadeVenda() {
         return (int) new Scanner(System.in).nextInt();
     }
 
-    protected static int pegaQuantidadeProdutos() {
+    private static int pegaQuantidadeProdutos() {
         return (int) new Scanner(System.in).nextInt();
     }
 
-    protected static float pegaValorParical() {
+    private static float pegaValorParical() {
         return (float) new Scanner(System.in).nextFloat();
     }
 
